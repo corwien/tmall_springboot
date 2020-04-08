@@ -6,19 +6,24 @@
 ## 二、技术准备
 
 为了完成这个J2ee项目，需要掌握如下技术，当然也可以以本项目为驱动，哪里不懂，学哪里，其实这也是最好的学习方式(带着目标去学习)
+
 **1. Java**
   Java基础 和 Java中级 的大部分内容
+
 **2. 前端**
   html, CSS, Javascript, JSON, AJAX, JQuery ,Bootstrap, Vue.js
+
 **3. 框架部分**
   spring springmvc springboot
+
 **4. 中间件**
   redis, nginx, elasticsearch, shiro
+
 **5. 数据库**
   MySQL
+
 **6. 开发工具**
   Intellij IDEA,Maven
-
 
 
 

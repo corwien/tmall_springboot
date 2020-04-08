@@ -49,20 +49,6 @@
                         vue.file = null;
                     });
                 },
-                deleteBean:function(id){
-                    if(!checkDeleteLink())
-                            return;
-                    var url = this.uri+"/"+id;
-                    axios.delete(url).then(function(response){
-                        if(0!=response.data.length){
-                            alert(response.data);
-                        }else{
-                            vue.list(0);
-                        }
-
-                    });
-
-                },
                 getFile:function(event){
                     this.file = event.target.files[0];
                 },
